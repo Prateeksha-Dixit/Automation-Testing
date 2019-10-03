@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31939" started-at="2019-10-02T19:22:39Z" finished-at="2019-10-02T19:23:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31939" started-at="2019-10-02T19:22:39Z" finished-at="2019-10-02T19:23:11Z">
+      <class name="com.wp.FlipKart2">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.wp.FlipKart2@22eeefeb]" name="browser" is-config="true" duration-ms="7120" started-at="2019-10-02T19:22:39Z" finished-at="2019-10-02T19:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.wp.FlipKart2@22eeefeb]" name="login" duration-ms="12083" started-at="2019-10-02T19:22:46Z" finished-at="2019-10-02T19:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="sikuliMethod()[pri:3, instance:com.wp.FlipKart2@22eeefeb]" name="sikuliMethod" duration-ms="11748" started-at="2019-10-02T19:22:58Z" finished-at="2019-10-02T19:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sikuliMethod -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.wp.FlipKart2@22eeefeb]" name="closeDriver" is-config="true" duration-ms="938" started-at="2019-10-02T19:23:10Z" finished-at="2019-10-02T19:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.wp.FlipKart2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/sikuli-3.0.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/syntaxpane-1.1.4.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="P:/Selenium Jars/sikuli jars/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
